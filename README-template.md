@@ -33,4 +33,4 @@ Users should be able to:
 ## Author
 
 - Website - [Order Summary Component](https://BarbareUgrekhelidze.github.io/Order-Summary-Component/)
-- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
